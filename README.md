@@ -1,8 +1,14 @@
-# CS-RESOURCES
-计算机经典学习资源分享、书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [电子书PDF](#%E7%94%B5%E5%AD%90%E4%B9%A6pdf)
+  - [数据结构与算法](#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+- [教学视频](#%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91)
 
-# 电子书
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# 电子书PDF
 ## 数据结构与算法
 - 《画算法：小灰的算法之旅》 [百度云链接](https://pan.baidu.com/s/1cdWpxjjQpLgZQcw-eErOEg) 提取码:ju7v
 - 《啊哈 算法》 [百度云链接](https://pan.baidu.com/s/1y98G6b0G2JiiSihcfQXQ-w)  提取码:  w1z4
@@ -23,7 +29,8 @@
 - 《数据结构与算法分析C语言描述》[百度云链接](https://pan.baidu.com/s/1W8asT2nELtRzH8BgNEZoCw)  提取码: 9pgw
 
 
-
+# 教学视频
+[CSAPP-深入理解计算机系统](https://www.bilibili.com/video/BV1cD4y1D7uR)
 
 
 
