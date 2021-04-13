@@ -1,9 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
 - [电子书PDF](#%E7%94%B5%E5%AD%90%E4%B9%A6pdf)
   - [数据结构与算法](#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 - [教学视频](#%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91)
 
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+>  鉴于经常由需要看的电子书，但是不靠谱网站横行，所以建立该仓库，免费分享优秀电子书以及视频，感觉有帮助的小伙伴可以点个star，感激不尽。
 
 
 # 电子书PDF
