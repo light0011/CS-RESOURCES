@@ -8,7 +8,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
->  鉴于经常由需要看的电子书，但是不靠谱网站横行，所以建立该仓库，免费分享优秀电子书以及视频，感觉有帮助的小伙伴可以点个star，感激不尽。
+>  建立该仓库收集高质量电子书与视频并且免费分享，感觉有帮助的小伙伴可以点个star，感激不尽。
 
 
 # 电子书PDF
